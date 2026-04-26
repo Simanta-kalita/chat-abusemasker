@@ -69,5 +69,3 @@ TROUBLESHOOTING
   AsyncServer constructor (already there).
 - The abuse list URL may change; you can replace it with any raw text URL that
   contains one word per line.
-
-Enjoy your low‑latency, linear‑time abuse‑filtered chat!
